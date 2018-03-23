@@ -5,4 +5,13 @@
     <title>clubballmark</title>
   </head>
   <body>
+    <div class="container">
+      <div class="sub-container" id="sc1">
+        <h1>Clubballmark</h1>
+      </div>
+      <div class="sub-container" id="sc2">
+        <p> 
+      </div>
+    </div>
+  </body>
 </html>
